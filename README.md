@@ -56,5 +56,4 @@ This project explores how CNNs can be built and optimised to achieve strong perf
 
 ## 🚀 Future Improvements  
 - Experiment with deeper architectures (e.g., ResNet, VGG).  
-- Apply transfer learning using pre-trained models.  
 - Extend to multi-label classification tasks.  
