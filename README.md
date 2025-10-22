@@ -50,7 +50,8 @@ This project explores how CNNs can be built and optimised to achieve strong perf
 ## 📊 Results and Insights  
 - CNN models significantly outperformed the baseline fully connected networks.  
 - Data augmentation and regularisation techniques improved generalisation and test performance.  
-- The project highlights the importance of architecture choices and hyperparameter tuning in achieving robust results.  
+- The project highlights the importance of architecture choices and hyperparameter tuning in achieving robust results.
+- Model accuracy by transfer learning using AlexNet on the CIFAR10 dataset is 88%.
 
 ---
 
